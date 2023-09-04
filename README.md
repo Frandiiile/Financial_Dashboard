@@ -1,7 +1,5 @@
 # Financial Dashboard using Power BI
 
-![Project Logo/Image]
-
 ## Overview
 
 This repository contains the source code and documentation for a Financial Dashboard created using Microsoft Power BI. This dashboard is designed to provide insightful visualizations and analytics for financial data, making it easier for users to monitor and analyze financial performance.
